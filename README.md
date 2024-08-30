@@ -1,0 +1,5 @@
+- 👋meu nome é Gustavo
+- estudo na escola E.E senador casemiro da rocha
+- gosto de jogar, e de desenhar
+- Estou estudando na [Alura](https://www.alura.com.br)
+- ![SupraMK4](https://media1.tenor.com/m/XRD6GpNu9KQAAAAC/supra-mk4.gif)
